@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "FrankfurtClown";
+  src: url(./fonts/frankfrt.ttf);
+}
+
+@font-face {
+  font-family: "FrankfurtSolid";
+  src: url(./fonts/Popfraxfrankfurt.otf);
+}
+
+@font-face {
+  font-family: "FrankfurtMesse";
+  src: url(./fonts/FrankfurtMesse.ttf);
+}
+
+@font-face {
+  font-family: "FrankfurtMesseSerif";
+  src: url(./fonts/FrankfurtMesseSerif.ttf);
+}
+
+@font-face {
+  font-family: "FrankfurtMesseWide";
+  src: url(./fonts/FrankfurtMesseWide.ttf);
+}
